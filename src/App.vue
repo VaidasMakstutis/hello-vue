@@ -19,4 +19,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+#app {
+  margin: 20px;
+}
+</style>
